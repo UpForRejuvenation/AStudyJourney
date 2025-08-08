@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaWithAI.iml" filepath="$PROJECT_DIR$/JavaWithAI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day01-HelloWorld/day01-HelloWorld.iml" filepath="$PROJECT_DIR$/day01-HelloWorld/day01-HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02-basic/day02-basic.iml" filepath="$PROJECT_DIR$/day02-basic/day02-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03-flow-control/day03-flow-control.iml" filepath="$PROJECT_DIR$/day03-flow-control/day03-flow-control.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04-array/day04-array.iml" filepath="$PROJECT_DIR$/day04-array/day04-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day05-classDemo/day05-classDemo.iml" filepath="$PROJECT_DIR$/day05-classDemo/day05-classDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day06-oop/day06-oop.iml" filepath="$PROJECT_DIR$/day06-oop/day06-oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day07-oop/day07-oop.iml" filepath="$PROJECT_DIR$/day07-oop/day07-oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day08-oop/day08-oop.iml" filepath="$PROJECT_DIR$/day08-oop/day08-oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima-employee-sys/itheima-employee-sys.iml" filepath="$PROJECT_DIR$/itheima-employee-sys/itheima-employee-sys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stone-maze/stone-maze.iml" filepath="$PROJECT_DIR$/stone-maze/stone-maze.iml" />
+    </modules>
+  </component>
+</project>
